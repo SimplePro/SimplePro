@@ -1,9 +1,9 @@
 ### Hi there 👋
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wotin&hide=contribs,prs&show_icons=true&theme=tokyonight)
 
-## 😄 Im Machine Learning, Deep Learning developer. (Born in 07 in Korea) 😄
-## ✨ I started study to hard from 2020. ✨
-## ⚡ Company : Wotin, Developer Name : SimplePro, Real name : donghwan Kim. ⚡ 
+#### 😄 Im Machine Learning, Deep Learning developer. (Born in 07 in Korea) 😄
+#### ✨ I started study to hard from 2020. ✨
+#### ⚡ Company : Wotin, Developer Name : SimplePro, Real name : donghwan Kim. ⚡ 
 
 
 <!--
