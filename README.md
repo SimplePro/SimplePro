@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wotin&hide=contribs,prs&show_icons=true&theme=tokyonight)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wotin&hide=contribs,prs&show_icons=true)
 
 #### 😄 Im Machine Learning, Deep Learning developer. (Born in 07) 😄
 #### ✨ I started study to hard from 2020. ✨
