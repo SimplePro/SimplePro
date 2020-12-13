@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wotin&hide=contribs,prs&show_icons=true)  
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wotin&hide=contribs,prs&show_icons=true)](https://github.com/wotin/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wotin&layout=compact)](https://github.com/wotin/)
 
 
