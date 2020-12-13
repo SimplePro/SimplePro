@@ -1,6 +1,8 @@
 ### Hi there 👋
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wotin&hide=contribs,prs&show_icons=true)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wotin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wotin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wotin&repo=geniusTest)](https://github.com/anuraghazra/github-readme-stats)
+
 
 #### 😄 Im Machine Learning, Deep Learning developer. (Born in 07) 😄
 #### ✨ I started study to hard from 2020. ✨
