@@ -5,8 +5,9 @@
 
 #### 😄 Im Machine Learning, Deep Learning developer. (Born in 07) 😄
 #### ✨ I started study to hard from 2020. ✨
-#### ⚡ Company : Wotin, Developer Name : SimplePro, Real name : donghwan Kim. ⚡ 
+#### ⚡ Company : Wotin, Developer Name : SimplePro, Real name : donghwan Kim. ⚡
 #### PMSS - Programming, Math, Space, Star 😎
+#### Blog - simplepro.tistory.com
 
 
 <!--
