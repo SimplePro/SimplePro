@@ -3,7 +3,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simplepro&layout=compact)](https://github.com/SimplePro?tab=repositories)
 
 
-#### 😄 Im Machine Learning, Deep Learning developer. (Born in 2007), 저는 머신러닝, 딥러닝 개발자입니다. 😄  
+#### 😄 Im Machine Learning, Deep Learning developer. (Born in 2007). 저는 머신러닝, 딥러닝 개발자입니다. 😄  
 
 #### ✨ I started study to hard from 2020. 2020년부터 개발을 시작했어요. ✨
 
