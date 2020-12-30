@@ -1,4 +1,3 @@
-### Hi there, 안녕하세요 👋
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=simplepro&hide=contribs,prs&show_icons=true)](https://github.com/simplepro/)  
 #### 😄 Im Machine Learning, Deep Learning developer. (Born in 2007). 저는 머신러닝, 딥러닝 개발자입니다. 😄  
 #### ✨ I started study to hard from 2020. 2020년부터 개발을 시작했어요. ✨
