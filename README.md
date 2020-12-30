@@ -12,6 +12,12 @@
 #### PMSS - Programming, Math, Space, Star 😎
 #### Blog - simplepro.tistory.com  😊
 
+ <div align=center>
+	
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/simplepro)](https://github.com/simplepro) 
+	
+  </div>
+
 
 <!--
 **Wotin/Wotin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
