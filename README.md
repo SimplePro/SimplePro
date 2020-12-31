@@ -3,7 +3,7 @@
 #### ✨ I started study to hard from 2020. 2020년부터 개발을 시작했어요. ✨
 #### ⚡ Company : Wotin, Developer Name : SimplePro, Real name : donghwan Kim. ⚡
 #### PMSS - Programming, Math, Space, Star 😎
-#### Blog - [(simplepro.tistory.com)]  😊
+#### Blog - [simplepro.tistory.com](https://simplepro.tistory.com)  😊
 
  <div align=center>
  
