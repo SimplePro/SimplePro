@@ -1,6 +1,6 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=simplepro&hide=contribs,prs&show_icons=true)](https://github.com/simplepro/)  
 
-소개 H2
+소개
 ----------
 #### 😄 Im Machine Learning, Deep Learning developer. (Born in 2007). 저는 머신러닝, 딥러닝 개발자입니다. 😄  
 #### ✨ I started study to hard from 2020. 2020년부터 개발을 시작했어요. ✨
@@ -8,7 +8,7 @@
 #### PMSS - Programming, Math, Space, Star 😎
 #### Blog - [simplepro.tistory.com](https://simplepro.tistory.com)  😊
 
-소속 H2
+소속
 -------
 #### 한양대학교 소프트웨어 영재교육원 5기
 
