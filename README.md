@@ -8,10 +8,6 @@
 #### PMSS - Programming, Math, Space, Star 😎
 #### Blog - [simplepro.tistory.com](https://simplepro.tistory.com)  😊
 
-소속
--------
-#### 한양대학교 소프트웨어 영재교육원 5기 
-
  <div align=center>
  
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/simplepro)](https://github.com/simplepro) 
