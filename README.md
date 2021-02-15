@@ -3,7 +3,7 @@
 소개
 ----------
 #### 😄 Im Machine Learning, Deep Learning developer. (Born in 2007). 저는 머신러닝, 딥러닝 개발자입니다. 😄  
-#### ✨ I started study to hard from 2020. 2020년부터 개발을 시작했어요. ✨
+#### ✨ I started study to hard from 2020. (Self-study) 2020년부터 개발을 시작했어요. (독학중) ✨
 #### ⚡ Company : Wotin, Developer Name : SimplePro, Real name : donghwan Kim. ⚡
 #### PMSS - Programming, Math, Space, Star 😎
 #### Blog - [simplepro.tistory.com](https://simplepro.tistory.com)  😊
