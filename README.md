@@ -5,7 +5,7 @@
 #### 😄 Im Machine Learning, Deep Learning developer. (Born in 2007). 😄  
 #### ✨ I started study to hard from 2020. (Self-study) ✨
 #### ⚡ Company : Wotin, Developer Name : SimplePro, Real name : donghwan Kim. ⚡
-#### P3MS : P3 - Programming, Philosophy, Physics, M - Math, S - Space  
+#### P3MU : P3 - Programming, Philosophy, Physics, M - Math, U - Universe  
 #### Blog - [simplepro.tistory.com](https://simplepro.tistory.com)  😊
 
  <div align=center>
